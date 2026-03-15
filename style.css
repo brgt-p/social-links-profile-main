@@ -100,19 +100,6 @@ h2 {
   color: var(--color-grey-900);
 }
 
-button {
-  background-color: inherit;
-  color: inherit;
-  border: none;
-}
-
-button:hover {
-  cursor: pointer;
-  color: inherit;
-}
-
-
-
 .attribution {
   font-size: 11px;
   text-align: center;
